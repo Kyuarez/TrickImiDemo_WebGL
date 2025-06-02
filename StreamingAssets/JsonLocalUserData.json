@@ -1,0 +1,21 @@
+{
+  "Ticket": 0,
+  "Coin": 0,
+  "Cash": 0,
+  "CurrentChapter": 1,
+  "ChapterOpenData": {
+    "1": [ true, false, false, false, false, false, false, false, false, false ],
+    "2": [ true, false, false, false, false, false, false, false, false, false ]
+  },
+  "ChapterClearData": {
+    "1": [ false, false, false, false, false, false, false, false, false, false ],
+    "2": [ false, false, false, false, false, false, false, false, false, false ]
+  },
+  "HeroList": [ 1, 2, 3, 4, 5 ],
+  "CardList": [ 1 ],
+  "HeroDeckData": {
+    "1": 1,
+    "2": 2,
+    "3": 3
+  }
+}

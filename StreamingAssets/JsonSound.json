@@ -1,0 +1,124 @@
+{
+  "JsonSound": [
+    {
+      "SoundID": "1",
+      "SoundType": "BGM",
+      "SoundResPath": "BGM_Title"
+    },
+    {
+      "SoundID": "2",
+      "SoundType": "BGM",
+      "SoundResPath": "BGM_LobbyMain"
+    },
+    {
+      "SoundID": "3",
+      "SoundType": "BGM",
+      "SoundResPath": "BGM_Lobby_SelectStage"
+    },
+    {
+      "SoundID": "100",
+      "SoundType": "BGM",
+      "SoundResPath": "BGM_Ingame_Boss"
+    },
+    {
+      "SoundID": "101",
+      "SoundType": "BGM",
+      "SoundResPath": "BGM_Ingame_Chapter1"
+    },
+    {
+      "SoundID": "102",
+      "SoundType": "BGM",
+      "SoundResPath": "BGM_Ingame_Chapter2"
+    },
+    {
+      "SoundID": "10000",
+      "SoundType": "SFX",
+      "SoundResPath": "SFX_UI_ClickButton_Default"
+    },
+    {
+      "SoundID": "10001",
+      "SoundType": "SFX",
+      "SoundResPath": "SFX_UI_SelectStage"
+    },
+    {
+      "SoundID": "10002",
+      "SoundType": "SFX",
+      "SoundResPath": "SFX_UI_Backward"
+    },
+    {
+      "SoundID": "10003",
+      "SoundType": "SFX",
+      "SoundResPath": "SFX_UI_Load_End"
+    },
+    {
+      "SoundID": "10004",
+      "SoundType": "SFX",
+      "SoundResPath": "SFX_UI_OnCard"
+    },
+    {
+      "SoundID": "20001",
+      "SoundType": "SFX",
+      "SoundResPath": "SFX_Weapon_Sword01"
+    },
+    {
+      "SoundID": "20002",
+      "SoundType": "SFX",
+      "SoundResPath": "SFX_Weapon_Sword02"
+    },
+    {
+      "SoundID": "20003",
+      "SoundType": "SFX",
+      "SoundResPath": "SFX_Weapon_Sword03"
+    },
+    {
+      "SoundID": "20004",
+      "SoundType": "SFX",
+      "SoundResPath": "SFX_Weapon_Sword04"
+    },
+    {
+      "SoundID": "20005",
+      "SoundType": "SFX",
+      "SoundResPath": "SFX_Weapon_Sword05"
+    },
+    {
+      "SoundID": "20006",
+      "SoundType": "SFX",
+      "SoundResPath": "SFX_Weapon_Hammer01"
+    },
+    {
+      "SoundID": "20007",
+      "SoundType": "SFX",
+      "SoundResPath": "SFX_Weapon_Hammer02"
+    },
+    {
+      "SoundID": "20008",
+      "SoundType": "SFX",
+      "SoundResPath": "SFX_Weapon_Hammer03"
+    },
+    {
+      "SoundID": "20009",
+      "SoundType": "SFX",
+      "SoundResPath": "SFX_Weapon_Hammer04"
+    },
+    {
+      "SoundID": "20010",
+      "SoundType": "SFX",
+      "SoundResPath": "SFX_Weapon_Hammer05"
+    },
+    {
+      "SoundID": "20011",
+      "SoundType": "SFX",
+      "SoundResPath": "SFX_Weapon_Gun"
+    },
+    {
+      "SoundID": "20012",
+      "SoundType": "SFX",
+      "SoundResPath": "SFX_Weapon_Rifle"
+    },
+    {
+      "SoundID": "30000",
+      "SoundType": "SFX",
+      "SoundResPath": "SFX_Heal"
+    }
+  ]
+}

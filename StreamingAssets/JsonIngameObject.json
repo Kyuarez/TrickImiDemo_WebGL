@@ -1,0 +1,222 @@
+{
+  "JsonIngameObject": [
+    {
+      "ObjectID": "0",
+      "CodeName": "TestHero",
+      "PoolPath": "TestHero",
+      "Description": "테스트 영웅",
+      "HP": "100",
+      "MP": "100",
+      "AttackType": "Melee",
+      "MoveSpeed": "2",
+      "ChaseSpeed": "5",
+      "TrackingRange": "10",
+      "NormalDamage": "20",
+      "NormalAttackDelay": "0.75",
+      "NormalAttackRange": "4",
+      "SkillList": [
+        "1"
+      ],
+      "WeaponSoundID": "20001"
+    },
+    {
+      "ObjectID": "1",
+      "CodeName": "HeroA",
+      "PoolPath": "HeroA",
+      "Description": "검",
+      "HP": "100",
+      "MP": "100",
+      "AttackType": "Melee",
+      "MoveSpeed": "3",
+      "ChaseSpeed": "6",
+      "TrackingRange": "10",
+      "NormalDamage": "20",
+      "NormalAttackDelay": "0.75",
+      "NormalAttackRange": "4",
+      "SkillList": [
+        "1"
+      ],
+      "WeaponSoundID": "20001"
+    },
+    {
+      "ObjectID": "2",
+      "CodeName": "HeroB",
+      "PoolPath": "HeroB",
+      "Description": "망치",
+      "HP": "100",
+      "MP": "100",
+      "AttackType": "Melee",
+      "MoveSpeed": "1",
+      "ChaseSpeed": "3",
+      "TrackingRange": "10",
+      "NormalDamage": "35",
+      "NormalAttackDelay": "1",
+      "NormalAttackRange": "5",
+      "SkillList": [
+        "1"
+      ],
+      "WeaponSoundID": "20006"
+    },
+    {
+      "ObjectID": "3",
+      "CodeName": "HeroC",
+      "PoolPath": "HeroC",
+      "Description": "총(단발)",
+      "HP": "100",
+      "MP": "100",
+      "AttackType": "Ranged",
+      "MoveSpeed": "3",
+      "ChaseSpeed": "6",
+      "TrackingRange": "13",
+      "NormalDamage": "10",
+      "NormalAttackDelay": "1",
+      "NormalAttackRange": "12",
+      "SkillList": [
+        "1"
+      ],
+      "WeaponSoundID": "20011"
+    },
+    {
+      "ObjectID": "4",
+      "CodeName": "HeroD",
+      "PoolPath": "HeroD",
+      "Description": "라이플",
+      "HP": "100",
+      "MP": "100",
+      "AttackType": "Ranged",
+      "MoveSpeed": "2",
+      "ChaseSpeed": "4",
+      "TrackingRange": "17",
+      "NormalDamage": "3",
+      "NormalAttackDelay": "0.5",
+      "NormalAttackRange": "15",
+      "SkillList": [
+        "1"
+      ],
+      "WeaponSoundID": "20012"
+    },
+    {
+      "ObjectID": "5",
+      "CodeName": "HeroE",
+      "PoolPath": "HeroE",
+      "Description": "폭탄",
+      "HP": "100",
+      "MP": "100",
+      "AttackType": "Ranged",
+      "MoveSpeed": "1",
+      "ChaseSpeed": "2",
+      "TrackingRange": "13",
+      "NormalDamage": "30",
+      "NormalAttackDelay": "3",
+      "NormalAttackRange": "15",
+      "SkillList": [
+        "1"
+      ],
+      "WeaponSoundID": "20013"
+    },
+    {
+      "ObjectID": "6",
+      "CodeName": null,
+      "PoolPath": null,
+      "Description": "Dummy",
+      "HP": "1",
+      "MP": "1",
+      "AttackType": "Melee",
+      "MoveSpeed": "1",
+      "ChaseSpeed": "1",
+      "TrackingRange": "1",
+      "NormalDamage": "-1",
+      "NormalAttackDelay": "1",
+      "NormalAttackRange": "1",
+      "SkillList": null,
+      "WeaponSoundID": "20001"
+    },
+    {
+      "ObjectID": "7",
+      "CodeName": null,
+      "PoolPath": null,
+      "Description": "Dummy",
+      "HP": "1",
+      "MP": "1",
+      "AttackType": "Melee",
+      "MoveSpeed": "1",
+      "ChaseSpeed": "1",
+      "TrackingRange": "1",
+      "NormalDamage": "-1",
+      "NormalAttackDelay": "1",
+      "NormalAttackRange": "1",
+      "SkillList": null,
+      "WeaponSoundID": "20001"
+    },
+    {
+      "ObjectID": "8",
+      "CodeName": null,
+      "PoolPath": null,
+      "Description": "Dummy",
+      "HP": "1",
+      "MP": "1",
+      "AttackType": "Melee",
+      "MoveSpeed": "1",
+      "ChaseSpeed": "1",
+      "TrackingRange": "1",
+      "NormalDamage": "-1",
+      "NormalAttackDelay": "1",
+      "NormalAttackRange": "1",
+      "SkillList": null,
+      "WeaponSoundID": "20001"
+    },
+    {
+      "ObjectID": "9",
+      "CodeName": null,
+      "PoolPath": null,
+      "Description": "Dummy",
+      "HP": "1",
+      "MP": "1",
+      "AttackType": "Melee",
+      "MoveSpeed": "1",
+      "ChaseSpeed": "1",
+      "TrackingRange": "1",
+      "NormalDamage": "-1",
+      "NormalAttackDelay": "1",
+      "NormalAttackRange": "1",
+      "SkillList": null,
+      "WeaponSoundID": "20001"
+    },
+    {
+      "ObjectID": "10",
+      "CodeName": null,
+      "PoolPath": null,
+      "Description": "Dummy",
+      "HP": "1",
+      "MP": "1",
+      "AttackType": "Melee",
+      "MoveSpeed": "1",
+      "ChaseSpeed": "1",
+      "TrackingRange": "1",
+      "NormalDamage": "-1",
+      "NormalAttackDelay": "1",
+      "NormalAttackRange": "1",
+      "SkillList": null,
+      "WeaponSoundID": "20001"
+    },
+    {
+      "ObjectID": "11",
+      "CodeName": "TestEnemy",
+      "PoolPath": "TestEnemy",
+      "Description": "테스트 적",
+      "HP": "100",
+      "MP": "100",
+      "AttackType": "Melee",
+      "MoveSpeed": "2",
+      "ChaseSpeed": "5",
+      "TrackingRange": "10",
+      "NormalDamage": "5",
+      "NormalAttackDelay": "0.75",
+      "NormalAttackRange": "4",
+      "SkillList": [
+        "1"
+      ],
+      "WeaponSoundID": "20002"
+    }
+  ]
+}
